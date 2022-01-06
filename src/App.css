@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+  text-align: center;
+  padding-top: 100px;
+}
+.quantity_plus button{
+  padding: 10px 15px;
+}
+.quantity_minus button{
+padding: 10px 15px;
+  }
+  .quantity_input{
+    padding: 15px;
+  }
